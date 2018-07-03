@@ -46,3 +46,5 @@ app.post('/write', function(req,res){
 app.listen(8000, function(){
     console.log('Go!');
 })
+
+// https://academy.realm.io/posts/realm-node-js-express-blog-tutorial/
